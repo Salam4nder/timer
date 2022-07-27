@@ -4,9 +4,7 @@
 
 ## Usage
 
-
-https://user-images.githubusercontent.com/89915813/181136515-4bb57e83-f1f9-425f-9fd0-f19a01ed51ed.mov
-
+https://user-images.githubusercontent.com/89915813/181136925-c11e688e-3830-4dde-8eba-616f3af47664.mov
 
 ```zsh 
 timer min -v 5
