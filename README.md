@@ -4,6 +4,10 @@
 
 ## Usage
 
+
+https://user-images.githubusercontent.com/89915813/181136515-4bb57e83-f1f9-425f-9fd0-f19a01ed51ed.mov
+
+
 ```zsh 
 timer min -v 5
 ```
